@@ -1,0 +1,1 @@
+java Runner -method lsh -threshold 0.9 -shingleLength 3 -maxTweets 5000 -dataFile /cw/bdap/assignment3/tweets.tsv -outputFile output.tsv -numShingles 2000 -numHashes 50 -numBands 5 -numBuckets 10000
